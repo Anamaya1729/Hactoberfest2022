@@ -2,9 +2,9 @@
 
 def odd_even(num):
     if num % 2 == 0:
-        print(f"{num} is even")
+        print ("num is even")
     else:
-        print(f"{num} is odd")
+        print ("num is odd")
 
 def main():
     num = int(input("Enter a number: "))
